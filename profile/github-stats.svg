@@ -1,0 +1,9 @@
+<svg width="100%" height="auto" viewBox="0 0 495 195" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Stats</title>
+  <desc id="desc">Placeholder SVG. GitHub Actions will update this file with live stats.</desc>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="24" y="48" fill="#8b5cf6" font-family="Segoe UI, Ubuntu, sans-serif" font-size="22" font-weight="700">GitHub Stats</text>
+  <text x="24" y="86" fill="#e6edf3" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="600">Activity overview</text>
+  <text x="24" y="120" fill="#8b949e" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">AI product work · Statistics · Computer science</text>
+  <text x="24" y="152" fill="#8b949e" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Run the “Update Profile Stats” workflow to generate live data.</text>
+</svg>
