@@ -1,0 +1,420 @@
+<svg width="1200" height="2780" viewBox="0 0 1200 2780" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="bingchuH concise GitHub profile overview">
+  <title>bingchuH — Concise AI Product Manager profile</title>
+  <defs>
+    <linearGradient id="overview-background" x1="80" y1="0" x2="1120" y2="2780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7FAFF"/>
+      <stop offset="0.28" stop-color="#F4F0FF"/>
+      <stop offset="0.56" stop-color="#EFF6FF"/>
+      <stop offset="0.78" stop-color="#ECFEFF"/>
+      <stop offset="1" stop-color="#F0FDFA"/>
+    </linearGradient>
+    <radialGradient id="overview-glow-top" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 210) rotate(128) scale(720 620)">
+      <stop stop-color="#C4B5FD" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="overview-glow-middle" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(130 1460) rotate(24) scale(760 980)">
+      <stop stop-color="#93C5FD" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#93C5FD" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="overview-glow-bottom" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1080 2560) rotate(154) scale(720 660)">
+      <stop stop-color="#5EEAD4" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="2780" fill="url(#overview-background)"/>
+  <rect width="1200" height="2780" fill="url(#overview-glow-top)"/>
+  <rect width="1200" height="2780" fill="url(#overview-glow-middle)"/>
+  <rect width="1200" height="2780" fill="url(#overview-glow-bottom)"/>
+  <svg x="0" y="0" width="1200" height="560" viewBox="0 0 1200 560" preserveAspectRatio="xMidYMid meet">
+    <defs>
+        <linearGradient id="hero-bg" x1="0" y1="0" x2="1200" y2="560" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#F7FAFF"/>
+          <stop offset="0.42" stop-color="#F4F0FF"/>
+          <stop offset="1" stop-color="#ECFEFF"/>
+        </linearGradient>
+        <radialGradient id="hero-orb1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 135) rotate(44) scale(340 250)">
+          <stop stop-color="#A78BFA" stop-opacity="0.72"/>
+          <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+        </radialGradient>
+        <radialGradient id="hero-orb2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 112) rotate(134) scale(310 230)">
+          <stop stop-color="#60A5FA" stop-opacity="0.62"/>
+          <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+        </radialGradient>
+        <radialGradient id="hero-orb3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(760 455) rotate(90) scale(360 260)">
+          <stop stop-color="#2DD4BF" stop-opacity="0.45"/>
+          <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+        </radialGradient>
+        <linearGradient id="hero-stroke" x1="140" y1="92" x2="1060" y2="470" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#FFFFFF" stop-opacity="0.95"/>
+          <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.45"/>
+          <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.72"/>
+        </linearGradient>
+        <linearGradient id="hero-title" x1="260" y1="215" x2="940" y2="215" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#111827"/>
+          <stop offset="0.55" stop-color="#4338CA"/>
+          <stop offset="1" stop-color="#0F766E"/>
+        </linearGradient>
+        <filter id="hero-shadow" x="80" y="50" width="1040" height="470" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feDropShadow dx="0" dy="32" stdDeviation="42" flood-color="#64748B" flood-opacity="0.22"/>
+          <feDropShadow dx="0" dy="2" stdDeviation="10" flood-color="#FFFFFF" flood-opacity="0.85"/>
+        </filter>
+      </defs>
+      <rect width="1200" height="560" fill="none"/>
+      <rect width="1200" height="560" rx="48" fill="url(#hero-orb1)"/>
+      <rect width="1200" height="560" rx="48" fill="url(#hero-orb2)"/>
+      <rect width="1200" height="560" rx="48" fill="url(#hero-orb3)"/>
+      <g opacity="0.36">
+        <path d="M64 420C222 325 313 487 482 396C650 305 708 132 890 199C986 235 1015 348 1138 300" stroke="#FFFFFF" stroke-width="2"/>
+        <path d="M68 138C232 227 311 69 487 158C641 236 751 370 914 286C1002 241 1049 156 1137 192" stroke="#FFFFFF" stroke-width="2"/>
+      </g>
+      <g filter="url(#hero-shadow)">
+        <rect x="140" y="92" width="920" height="376" rx="42" fill="#FFFFFF" fill-opacity="0.58"/>
+        <rect x="140.75" y="92.75" width="918.5" height="374.5" rx="41.25" stroke="url(#hero-stroke)" stroke-width="1.5"/>
+      </g>
+      <g opacity="0.8">
+        <circle cx="184" cy="136" r="7" fill="#FF5F57"/>
+        <circle cx="209" cy="136" r="7" fill="#FFBD2E"/>
+        <circle cx="234" cy="136" r="7" fill="#28C840"/>
+      </g>
+      <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="5" fill="#64748B">
+        <text x="514" y="181" text-anchor="end">AI PRODUCT MANAGER</text>
+        <circle cx="541" cy="175" r="14" fill="#FFFFFF" fill-opacity="0.72" stroke="#FFFFFF"/>
+      </g>
+      <text x="600" y="262" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="78" font-weight="800" fill="url(#hero-title)">bingchuH</text>
+      <text x="600" y="312" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#334155">Building practical AI agents</text>
+      <text x="600" y="357" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#475569">PM with Statistics + CS background, turning LLM capability into useful workflows.</text>
+      
+      <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#334155">
+        <rect x="225" y="390" width="190" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.68" stroke="#FFFFFF"/>
+        <text x="320" y="417" text-anchor="middle">Product Sense</text>
+        
+        <rect x="420" y="390" width="170" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.68" stroke="#FFFFFF"/>
+        <text x="505" y="417" text-anchor="middle">AI Agents</text>
+        
+        <rect x="605" y="390" width="170" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.68" stroke="#FFFFFF"/>
+        <text x="690" y="417" text-anchor="middle">Data</text>
+        
+        <rect x="790" y="390" width="170" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.68" stroke="#FFFFFF"/>
+        <text x="875" y="417" text-anchor="middle">Execution</text>
+      </g>
+  </svg>
+  <svg x="0" y="584" width="1200" height="360" viewBox="0 0 1200 360" preserveAspectRatio="xMidYMid meet">
+    <defs>
+        <linearGradient id="signal-stage" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#F7FAFF"/>
+          <stop offset="0.42" stop-color="#F4F0FF"/>
+          <stop offset="1" stop-color="#ECFEFF"/>
+        </linearGradient>
+        <radialGradient id="signal-glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 78) rotate(44) scale(330 210)">
+          <stop stop-color="#A78BFA" stop-opacity="0.34"/>
+          <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+        </radialGradient>
+        <radialGradient id="signal-glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 290) rotate(120) scale(330 220)">
+          <stop stop-color="#2DD4BF" stop-opacity="0.28"/>
+          <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+        </radialGradient>
+        <linearGradient id="signal-card" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#FFFFFF" stop-opacity="0.88"/>
+          <stop offset="1" stop-color="#F8FAFC" stop-opacity="0.68"/>
+        </linearGradient>
+        <linearGradient id="signal-edge" x1="100" y1="45" x2="1100" y2="315" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#A5B4FC" stop-opacity="0.42"/>
+          <stop offset="0.5" stop-color="#FFFFFF"/>
+          <stop offset="1" stop-color="#67E8F9" stop-opacity="0.48"/>
+        </linearGradient>
+        <filter id="signal-shadow" x="70" y="20" width="1060" height="320" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#94A3B8" flood-opacity="0.18"/>
+        </filter>
+      </defs>
+      <rect width="1200" height="360" fill="none"/>
+      <rect width="1200" height="360" rx="40" fill="url(#signal-glowA)"/>
+      <rect width="1200" height="360" rx="40" fill="url(#signal-glowB)"/>
+      <g filter="url(#signal-shadow)">
+        <rect x="100" y="45" width="1000" height="270" rx="34" fill="url(#signal-card)"/>
+        <rect x="100.75" y="45.75" width="998.5" height="268.5" rx="33.25" stroke="url(#signal-edge)" stroke-width="1.5"/>
+      </g>
+      <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+        <text x="150" y="105" font-size="15" font-weight="800" letter-spacing="4" fill="#64748B">PROFILE</text>
+        <text x="150" y="151" font-size="30" font-weight="800" fill="#0F172A">AI Product Manager</text>
+        <g>
+          <circle cx="470" cy="141" r="15" fill="#FFFFFF" fill-opacity="0.76" stroke="#FFFFFF"/>
+          <path d="M470 132.8C465.8 132.8 462.4 136.2 462.4 140.4C462.4 145.7 470 153.6 470 153.6C470 153.6 477.6 145.7 477.6 140.4C477.6 136.2 474.2 132.8 470 132.8ZM470 143.1C468.5 143.1 467.2 141.9 467.2 140.4C467.2 138.8 468.5 137.6 470 137.6C471.5 137.6 472.8 138.8 472.8 140.4C472.8 141.9 471.5 143.1 470 143.1Z" fill="#2563EB"/>
+          <text x="493" y="151" font-size="24" font-weight="800" fill="#334155">Shanghai</text>
+        </g>
+        <text x="150" y="184" font-size="18" fill="#475569">B.S. Statistics · Shandong University</text>
+        <text x="150" y="212" font-size="18" fill="#475569">M.S. Computer Science · UCAS</text>
+        <text x="150" y="246" font-size="16" fill="#64748B">Currently building AI Agent products at an internet company.</text>
+        <g font-size="14" font-weight="700" fill="#334155">
+          <rect x="150" y="266" width="132" height="32" rx="16" fill="#EEF2FF"/>
+          <text x="216" y="287" text-anchor="middle">AI Products</text>
+          <rect x="297" y="266" width="122" height="32" rx="16" fill="#ECFEFF"/>
+          <text x="358" y="287" text-anchor="middle">LLM Apps</text>
+          <rect x="434" y="266" width="142" height="32" rx="16" fill="#F0FDFA"/>
+          <text x="505" y="287" text-anchor="middle">Product Data</text>
+          <rect x="591" y="266" width="156" height="32" rx="16" fill="#FAF5FF"/>
+          <text x="669" y="287" text-anchor="middle">Workflow AI</text>
+        </g>
+        <g opacity="0.94">
+          <rect x="830" y="112" width="190" height="120" rx="26" fill="#FFFFFF" fill-opacity="0.72" stroke="#FFFFFF"/>
+          <circle cx="878" cy="162" r="23" fill="#60A5FA" fill-opacity="0.34"/>
+          <circle cx="920" cy="162" r="23" fill="#A78BFA" fill-opacity="0.3"/>
+          <circle cx="962" cy="162" r="23" fill="#2DD4BF" fill-opacity="0.32"/>
+          <text x="925" y="212" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="3" fill="#64748B">PRACTICAL · CLEAR</text>
+        </g>
+      </g>
+  </svg>
+  <svg x="0" y="968" width="1200" height="840" viewBox="0 0 1200 840" preserveAspectRatio="xMidYMid meet">
+    <defs>
+        <linearGradient id="focus-stage" x1="0" y1="0" x2="1200" y2="840" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#F7FAFF"/>
+          <stop offset="0.42" stop-color="#F4F0FF"/>
+          <stop offset="1" stop-color="#ECFEFF"/>
+        </linearGradient>
+        <radialGradient id="focus-glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 190) rotate(35) scale(420 260)">
+          <stop stop-color="#A78BFA" stop-opacity="0.34"/>
+          <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+        </radialGradient>
+        <radialGradient id="focus-glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 610) rotate(140) scale(430 280)">
+          <stop stop-color="#2DD4BF" stop-opacity="0.32"/>
+          <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+        </radialGradient>
+        <linearGradient id="focus-panel" x1="92" y1="42" x2="1108" y2="780" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#FFFFFF" stop-opacity="0.76"/>
+          <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.46"/>
+        </linearGradient>
+        <linearGradient id="focus-card" x1="0" y1="0" x2="500" y2="290" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#FFFFFF" stop-opacity="0.9"/>
+          <stop offset="1" stop-color="#F8FAFC" stop-opacity="0.66"/>
+        </linearGradient>
+        <filter id="focus-shadowPanel" x="48" y="6" width="1104" height="814" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feDropShadow dx="0" dy="28" stdDeviation="34" flood-color="#94A3B8" flood-opacity="0.18"/>
+        </filter>
+        <filter id="focus-shadowCard" x="-24" y="-20" width="568" height="364" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#64748B" flood-opacity="0.14"/>
+        </filter>
+      </defs>
+    
+      <rect width="1200" height="840" fill="none"/>
+      <rect width="1200" height="840" rx="42" fill="url(#focus-glowA)"/>
+      <rect width="1200" height="840" rx="42" fill="url(#focus-glowB)"/>
+      <g opacity="0.35">
+        <path d="M88 210C250 116 365 280 526 192C698 98 802 142 948 238C1027 290 1083 260 1138 224" stroke="#FFFFFF" stroke-width="2"/>
+        <path d="M66 710C224 598 382 754 552 644C724 532 816 502 984 604C1064 652 1100 628 1150 586" stroke="#FFFFFF" stroke-width="2"/>
+      </g>
+    
+      <g filter="url(#focus-shadowPanel)">
+        <rect x="92" y="46" width="1016" height="748" rx="40" fill="url(#focus-panel)"/>
+        <rect x="92.75" y="46.75" width="1014.5" height="746.5" rx="39.25" stroke="#FFFFFF" stroke-opacity="0.88" stroke-width="1.5"/>
+      </g>
+    
+      <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+        <text x="140" y="116" font-size="15" font-weight="800" letter-spacing="4" fill="#64748B">PRODUCT FOCUS</text>
+        <text x="140" y="162" font-size="36" font-weight="800" fill="#0F172A">Product focus</text>
+        <text x="140" y="198" font-size="18" fill="#475569">AI agents, product strategy, evaluation, and workflow automation.</text>
+    
+        <g transform="translate(120 250)">
+          <g filter="url(#focus-shadowCard)">
+            <rect x="0" y="0" width="460" height="235" rx="30" fill="url(#focus-card)"/>
+            <rect x="0.75" y="0.75" width="458.5" height="233.5" rx="29.25" stroke="#FFFFFF" stroke-opacity="0.9" stroke-width="1.5"/>
+          </g>
+          <circle cx="398" cy="48" r="72" fill="#A78BFA" fill-opacity="0.18"/>
+          <text x="36" y="54" font-size="13" font-weight="800" letter-spacing="3" fill="#64748B">01 · PRODUCT STRATEGY</text>
+          <text x="36" y="95" font-size="27" font-weight="800" fill="#0F172A">AI Product Strategy</text>
+          <text x="36" y="132" font-size="16" fill="#475569">Define scenarios, MVPs, metrics,</text>
+          <text x="36" y="157" font-size="16" fill="#475569">and roadmaps that turn model</text>
+          <text x="36" y="182" font-size="16" fill="#475569">capability into product value.</text>
+          <rect x="36" y="202" width="74" height="30" rx="15" fill="#EEF2FF"/>
+          <text x="73" y="222" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">MVP</text>
+          <rect x="122" y="202" width="86" height="30" rx="15" fill="#ECFEFF"/>
+          <text x="165" y="222" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">Metrics</text>
+          <rect x="220" y="202" width="92" height="30" rx="15" fill="#F5F3FF"/>
+          <text x="266" y="222" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">Roadmap</text>
+        </g>
+    
+        <g transform="translate(620 250)">
+          <g filter="url(#focus-shadowCard)">
+            <rect x="0" y="0" width="460" height="235" rx="30" fill="url(#focus-card)"/>
+            <rect x="0.75" y="0.75" width="458.5" height="233.5" rx="29.25" stroke="#FFFFFF" stroke-opacity="0.9" stroke-width="1.5"/>
+          </g>
+          <circle cx="398" cy="48" r="72" fill="#60A5FA" fill-opacity="0.18"/>
+          <text x="36" y="54" font-size="13" font-weight="800" letter-spacing="3" fill="#64748B">02 · LLM EXPERIENCE</text>
+          <text x="36" y="95" font-size="27" font-weight="800" fill="#0F172A">LLM App Design</text>
+          <text x="36" y="132" font-size="16" fill="#475569">Build RAG and agent workflows</text>
+          <text x="36" y="157" font-size="16" fill="#475569">with evaluation, fallback paths,</text>
+          <text x="36" y="182" font-size="16" fill="#475569">and user trust in mind.</text>
+          <rect x="36" y="202" width="70" height="30" rx="15" fill="#ECFEFF"/>
+          <text x="71" y="222" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">RAG</text>
+          <rect x="118" y="202" width="78" height="30" rx="15" fill="#EFF6FF"/>
+          <text x="157" y="222" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">Agent</text>
+          <rect x="208" y="202" width="70" height="30" rx="15" fill="#F0FDFA"/>
+          <text x="243" y="222" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">Eval</text>
+        </g>
+    
+        <g transform="translate(120 525)">
+          <g filter="url(#focus-shadowCard)">
+            <rect x="0" y="0" width="460" height="235" rx="30" fill="url(#focus-card)"/>
+            <rect x="0.75" y="0.75" width="458.5" height="233.5" rx="29.25" stroke="#FFFFFF" stroke-opacity="0.9" stroke-width="1.5"/>
+          </g>
+          <circle cx="398" cy="48" r="72" fill="#2DD4BF" fill-opacity="0.18"/>
+          <text x="36" y="54" font-size="13" font-weight="800" letter-spacing="3" fill="#64748B">03 · PRODUCT ANALYTICS</text>
+          <text x="36" y="95" font-size="27" font-weight="800" fill="#0F172A">Product Analytics</text>
+          <text x="36" y="132" font-size="16" fill="#475569">Use experiments, funnels, cohorts,</text>
+          <text x="36" y="157" font-size="16" fill="#475569">and SQL analysis to make</text>
+          <text x="36" y="182" font-size="16" fill="#475569">product judgment more rigorous.</text>
+          <rect x="36" y="202" width="90" height="30" rx="15" fill="#F0FDFA"/>
+          <text x="81" y="222" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">A/B Test</text>
+          <rect x="138" y="202" width="66" height="30" rx="15" fill="#EFF6FF"/>
+          <text x="171" y="222" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">SQL</text>
+          <rect x="216" y="202" width="78" height="30" rx="15" fill="#EEF2FF"/>
+          <text x="255" y="222" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">Cohort</text>
+        </g>
+    
+        <g transform="translate(620 525)">
+          <g filter="url(#focus-shadowCard)">
+            <rect x="0" y="0" width="460" height="235" rx="30" fill="url(#focus-card)"/>
+            <rect x="0.75" y="0.75" width="458.5" height="233.5" rx="29.25" stroke="#FFFFFF" stroke-opacity="0.9" stroke-width="1.5"/>
+          </g>
+          <circle cx="398" cy="48" r="72" fill="#F472B6" fill-opacity="0.16"/>
+          <text x="36" y="54" font-size="13" font-weight="800" letter-spacing="3" fill="#64748B">04 · WORKFLOW AI</text>
+          <text x="36" y="95" font-size="27" font-weight="800" fill="#0F172A">Enterprise AI</text>
+          <text x="36" y="132" font-size="16" fill="#475569">Embed AI into knowledge work,</text>
+          <text x="36" y="157" font-size="16" fill="#475569">customer service, automation,</text>
+          <text x="36" y="182" font-size="16" fill="#475569">and decision support.</text>
+          <rect x="36" y="202" width="70" height="30" rx="15" fill="#F5F3FF"/>
+          <text x="71" y="222" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">SaaS</text>
+          <rect x="118" y="202" width="96" height="30" rx="15" fill="#FFF7ED"/>
+          <text x="166" y="222" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">Workflow</text>
+          <rect x="226" y="202" width="66" height="30" rx="15" fill="#ECFEFF"/>
+          <text x="259" y="222" text-anchor="middle" font-size="12" font-weight="700" fill="#334155">KM</text>
+        </g>
+      </g>
+  </svg>
+  <svg x="0" y="1832" width="1200" height="220" viewBox="0 0 1200 220" preserveAspectRatio="xMidYMid meet">
+    <defs>
+        <linearGradient id="github-signal-stage" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#F7FAFF"/>
+          <stop offset="0.42" stop-color="#F4F0FF"/>
+          <stop offset="1" stop-color="#ECFEFF"/>
+        </linearGradient>
+        <radialGradient id="github-signal-glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 42) scale(310 190)">
+          <stop stop-color="#60A5FA" stop-opacity="0.34"/>
+          <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+        </radialGradient>
+        <filter id="github-signal-shadow" x="58" y="14" width="1084" height="180" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feDropShadow dx="0" dy="22" stdDeviation="28" flood-color="#94A3B8" flood-opacity="0.16"/>
+        </filter>
+      </defs>
+      <rect width="1200" height="220" fill="none"/>
+      <rect width="1200" height="220" rx="38" fill="url(#github-signal-glow)"/>
+      <g filter="url(#github-signal-shadow)">
+        <rect x="92" y="46" width="1016" height="124" rx="34" fill="#FFFFFF" fill-opacity="0.68"/>
+        <rect x="92.75" y="46.75" width="1014.5" height="122.5" rx="33.25" stroke="#FFFFFF" stroke-opacity="0.88" stroke-width="1.5"/>
+      </g>
+      <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+        <text x="140" y="100" font-size="15" font-weight="800" letter-spacing="4" fill="#64748B">GITHUB SIGNAL</text>
+        <text x="140" y="141" font-size="32" font-weight="800" fill="#0F172A">Projects, code, and learning rhythm</text>
+        <g opacity="0.86">
+          <rect x="920" y="80" width="36" height="54" rx="12" fill="#A78BFA" fill-opacity="0.26"/>
+          <rect x="970" y="64" width="36" height="70" rx="12" fill="#60A5FA" fill-opacity="0.28"/>
+          <rect x="1020" y="94" width="36" height="40" rx="12" fill="#2DD4BF" fill-opacity="0.3"/>
+        </g>
+      </g>
+  </svg>
+  <svg x="0" y="2076" width="1200" height="420" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMid meet">
+    <defs>
+        <linearGradient id="stack-stage" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#F7FAFF"/>
+          <stop offset="0.42" stop-color="#F4F0FF"/>
+          <stop offset="1" stop-color="#ECFEFF"/>
+        </linearGradient>
+        <radialGradient id="stack-glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 110) rotate(35) scale(340 220)">
+          <stop stop-color="#A78BFA" stop-opacity="0.3"/>
+          <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+        </radialGradient>
+        <radialGradient id="stack-glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 330) rotate(125) scale(340 220)">
+          <stop stop-color="#2DD4BF" stop-opacity="0.26"/>
+          <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+        </radialGradient>
+        <linearGradient id="stack-panel" x1="92" y1="50" x2="1108" y2="360" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#FFFFFF" stop-opacity="0.78"/>
+          <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.5"/>
+        </linearGradient>
+        <filter id="stack-shadow" x="50" y="10" width="1100" height="390" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feDropShadow dx="0" dy="25" stdDeviation="30" flood-color="#94A3B8" flood-opacity="0.16"/>
+        </filter>
+      </defs>
+      <rect width="1200" height="420" fill="none"/>
+      <rect width="1200" height="420" rx="40" fill="url(#stack-glowA)"/>
+      <rect width="1200" height="420" rx="40" fill="url(#stack-glowB)"/>
+      <g filter="url(#stack-shadow)">
+        <rect x="92" y="50" width="1016" height="310" rx="36" fill="url(#stack-panel)"/>
+        <rect x="92.75" y="50.75" width="1014.5" height="308.5" rx="35.25" stroke="#FFFFFF" stroke-opacity="0.95" stroke-width="1.5"/>
+      </g>
+      <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+        <text x="140" y="112" font-size="15" font-weight="800" letter-spacing="4" fill="#64748B">STACK</text>
+        <text x="140" y="153" font-size="32" font-weight="800" fill="#0F172A">Product × AI × Data</text>
+        <text x="140" y="181" font-size="17" fill="#475569">A broader toolkit across agents, eval, code, data, and workflow execution.</text>
+        <g font-size="14" font-weight="750" fill="#334155">
+          <rect x="140" y="205" width="154" height="38" rx="19" fill="#EEF2FF"/><text x="217" y="229" text-anchor="middle">Product Strategy</text>
+          <rect x="310" y="205" width="132" height="38" rx="19" fill="#F0FDFA"/><text x="376" y="229" text-anchor="middle">Agent Design</text>
+          <rect x="458" y="205" width="84" height="38" rx="19" fill="#ECFDF5"/><text x="500" y="229" text-anchor="middle">RAG</text>
+          <rect x="558" y="205" width="190" height="38" rx="19" fill="#EFF6FF"/><text x="653" y="229" text-anchor="middle">Model Orchestration</text>
+          <rect x="764" y="205" width="138" height="38" rx="19" fill="#FFF7ED"/><text x="833" y="229" text-anchor="middle">Eval Harness</text>
+          <rect x="918" y="205" width="84" height="38" rx="19" fill="#F5F3FF"/><text x="960" y="229" text-anchor="middle">MCP</text>
+
+          <rect x="140" y="256" width="104" height="38" rx="19" fill="#ECFEFF"/><text x="192" y="280" text-anchor="middle">Codex</text>
+          <rect x="260" y="256" width="152" height="38" rx="19" fill="#EEF2FF"/><text x="336" y="280" text-anchor="middle">Claude Code</text>
+          <rect x="428" y="256" width="104" height="38" rx="19" fill="#F8FAFC"/><text x="480" y="280" text-anchor="middle">Cursor</text>
+          <rect x="548" y="256" width="128" height="38" rx="19" fill="#FAF5FF"/><text x="612" y="280" text-anchor="middle">Prompt Ops</text>
+          <rect x="692" y="256" width="116" height="38" rx="19" fill="#F0FDFA"/><text x="750" y="280" text-anchor="middle">Vector DB</text>
+          <rect x="824" y="256" width="144" height="38" rx="19" fill="#EFF6FF"/><text x="896" y="280" text-anchor="middle">Observability</text>
+          <rect x="984" y="256" width="104" height="38" rx="19" fill="#ECFDF5"/><text x="1036" y="280" text-anchor="middle">Tool Use</text>
+
+          <rect x="140" y="307" width="112" height="38" rx="19" fill="#FFF7ED"/><text x="196" y="331" text-anchor="middle">Python</text>
+          <rect x="268" y="307" width="86" height="38" rx="19" fill="#EFF6FF"/><text x="311" y="331" text-anchor="middle">SQL</text>
+          <rect x="370" y="307" width="142" height="38" rx="19" fill="#F8FAFC"/><text x="441" y="331" text-anchor="middle">Analytics</text>
+          <rect x="528" y="307" width="116" height="38" rx="19" fill="#F0FDFA"/><text x="586" y="331" text-anchor="middle">A/B Test</text>
+          <rect x="660" y="307" width="84" height="38" rx="19" fill="#EFF6FF"/><text x="702" y="331" text-anchor="middle">Jira</text>
+          <rect x="760" y="307" width="132" height="38" rx="19" fill="#FAF5FF"/><text x="826" y="331" text-anchor="middle">Docs &amp; PRD</text>
+          <rect x="908" y="307" width="142" height="38" rx="19" fill="#ECFEFF"/><text x="979" y="331" text-anchor="middle">Workflow AI</text>
+        </g>
+      </g>
+  </svg>
+  <svg x="0" y="2520" width="1200" height="260" viewBox="0 0 1200 260" preserveAspectRatio="xMidYMid meet">
+    <defs>
+        <linearGradient id="contact-bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#F7FAFF"/>
+          <stop offset="0.42" stop-color="#F4F0FF"/>
+          <stop offset="1" stop-color="#ECFEFF"/>
+        </linearGradient>
+        <radialGradient id="contact-glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(990 50) scale(310)">
+          <stop stop-color="#60A5FA" stop-opacity="0.28"/>
+          <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+        </radialGradient>
+        <radialGradient id="contact-glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(155 210) scale(280)">
+          <stop stop-color="#2DD4BF" stop-opacity="0.22"/>
+          <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+        </radialGradient>
+        <filter id="contact-shadow" x="60" y="16" width="1080" height="228" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feDropShadow dx="0" dy="24" stdDeviation="30" flood-color="#94A3B8" flood-opacity="0.16"/>
+        </filter>
+      </defs>
+      <rect width="1200" height="260" fill="none"/>
+      <rect width="1200" height="260" rx="40" fill="url(#contact-glowA)"/>
+      <rect width="1200" height="260" rx="40" fill="url(#contact-glowB)"/>
+      <g filter="url(#contact-shadow)">
+        <rect x="90" y="34" width="1020" height="190" rx="38" fill="#FFFFFF" fill-opacity="0.64"/>
+        <rect x="90" y="34" width="1020" height="190" rx="38" fill="url(#contact-glowA)"/>
+        <rect x="90" y="34" width="1020" height="190" rx="38" fill="url(#contact-glowB)"/>
+        <rect x="90.75" y="34.75" width="1018.5" height="188.5" rx="37.25" stroke="#FFFFFF" stroke-opacity="0.92" stroke-width="1.5"/>
+      </g>
+      <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+        <text x="145" y="100" font-size="15" font-weight="800" letter-spacing="4" fill="#64748B">LET'S BUILD</text>
+        <text x="145" y="145" font-size="32" font-weight="800" fill="#0F172A">Open to AI product &amp; workflow AI conversations.</text>
+        <text x="145" y="181" font-size="17" fill="#475569">Email: outloo0ok@outlook.com · GitHub: profile linked above</text>
+        <circle cx="996" cy="128" r="46" fill="#FFFFFF" fill-opacity="0.62" stroke="#FFFFFF"/>
+        <circle cx="996" cy="128" r="24" fill="#60A5FA" fill-opacity="0.24"/>
+        <circle cx="996" cy="128" r="9" fill="#2DD4BF" fill-opacity="0.48"/>
+      </g>
+  </svg>
+</svg>

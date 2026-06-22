@@ -4,6 +4,6 @@
   <rect x="0.5" y="0.5" width="494" height="194" rx="8" fill="#ffffff" stroke="#e5e7eb"/>
   <text x="24" y="48" fill="#2563eb" font-family="Segoe UI, Ubuntu, sans-serif" font-size="22" font-weight="700">GitHub Stats</text>
   <text x="24" y="86" fill="#111827" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="600">Activity overview</text>
-  <text x="24" y="120" fill="#6b7280" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">AI product work · Statistics · Computer science</text>
+  <text x="24" y="120" fill="#6b7280" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14">AI product work · Public projects · Contribution activity</text>
   <text x="24" y="152" fill="#6b7280" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Run the “Update Profile Stats” workflow to generate live data.</text>
 </svg>

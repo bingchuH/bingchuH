@@ -1,22 +1,6 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="bingchuH — AI Product Manager" width="100%" />
+  <img src="./assets/readme-overview.svg" alt="bingchuH — AI Product Manager profile overview" width="100%" />
 </p>
-
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-your--email@example.com-2563EB?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/bingchuH"><img src="https://img.shields.io/badge/GitHub-Profile-0EA5E9?style=flat-square&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=bingchuH&style=flat-square&color=0EA5E9" alt="Profile views" />
-</p>
-
-<p align="center">
-  <i>Building AI products that feel calm, useful, and quietly intelligent.</i>
-</p>
-
-<img src="./assets/signal.svg" alt="Profile signal" width="100%" />
-
-<img src="./assets/product-focus.svg" alt="Product focus" width="100%" />
-
-<img src="./assets/github-signal.svg" alt="GitHub signal" width="100%" />
 
 <p align="center">
   <img src="./profile/github-stats-light.svg" alt="GitHub Stats" width="49%" />
@@ -35,12 +19,8 @@
   </a>
 </p>
 
-<img src="./assets/stack.svg" alt="Tech and product stack" width="100%" />
-
-<a href="mailto:your-email@example.com">
-  <img src="./assets/contact.svg" alt="Contact" width="100%" />
-</a>
-
 <p align="center">
-  <sub>Designed as a calm, glass-like GitHub profile. Replace <code>your-email@example.com</code> before publishing.</sub>
+  <a href="mailto:outloo0ok@outlook.com"><img src="https://img.shields.io/badge/Email-your--email@example.com-2563EB?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/bingchuH"><img src="https://img.shields.io/badge/GitHub-Profile-0EA5E9?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=bingchuH&style=flat-square&color=0EA5E9" alt="Profile views" />
 </p>
