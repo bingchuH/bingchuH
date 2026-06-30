@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:outloo0ok@outlook.com"><img src="https://img.shields.io/badge/Email-your--email@example.com-2563EB?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:outloo0ok@outlook.com"><img src="https://img.shields.io/badge/Email-outloo0ok@outlook.com-2563EB?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/bingchuH"><img src="https://img.shields.io/badge/GitHub-Profile-0EA5E9?style=flat-square&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=bingchuH&style=flat-square&color=0EA5E9" alt="Profile views" />
 </p>
